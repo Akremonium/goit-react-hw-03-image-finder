@@ -3,7 +3,7 @@ import { Component } from "react";
 import Searchbar from "./Components/Searchbar";
 import ImageGallery from "./Components/ImageGallery";
 
-import "./styles.scss";
+import "./styles.css";
 
 class App extends Component {
   state = {
